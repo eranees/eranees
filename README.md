@@ -24,22 +24,22 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/scientist/">
-  <img align="left" alt="Aamir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/eranees/">
+  <img align="left" alt="Anees's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aamirsofi)
 
 <br />
 
-Hi, i'm [Aamir Bashir](https://nasdev.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Anees Akbar](https://nasdev.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:ksaak33@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:eraneesakbar@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
@@ -86,6 +86,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 - Profile 1:
-![](https://github-readme-stats.vercel.app/api?username=scientist3&show_icons=true)
-- Profile 2:
-![](https://github-readme-stats.vercel.app/api?username=aamirsofi&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=eranees&show_icons=true)
