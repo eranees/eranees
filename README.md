@@ -47,14 +47,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eranees&theme=blue-green)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
@@ -65,13 +62,8 @@ TypeScript   18 hrs 8 mins   █████████████████
 JavaScript   4 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
 CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Groovy       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-GO
-C#
-C
-C++
-JAVA
+GO           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C++          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
