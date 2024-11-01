@@ -70,25 +70,26 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <hr>
 
 📈 my github stats
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=eranees&show_icons=true" alt="GitHub Stats"> -->
 <section>
   <table style="width: 100%;">
     <tr>
-      <td style="width: 50%; text-align: center;">
+      <td style="width: 50%;">
         <h2>🏆 Achievements</h2>
-        <img src="https://github-profile-trophy.vercel.app/?username=eranees&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+        <img src="https://github-profile-trophy.vercel.app/?username=eranees&theme=darkhub&no-frame=true" alt="GitHub Trophies" />
       </td>
-      <td style="width: 50%; text-align: center;">
+      <td style="width: 50%;">
         <h2>📈 GitHub Stats</h2>
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=eranees&show_icons=true" alt="GitHub Stats"> -->
-          <img src="https://github-readme-stats.vercel.app/api?username=eranees&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=eranees&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
 </section>
-### 🔥 Fun with SVG Animations
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionate+about+Backend+Engineer;Delivering+High-Quality+Software;Continuously+Learning+New+Tech" alt="Typing SVG">
-</p>
 
+<section>
+  ### 🔥 Fun with SVG Animations
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Passionate+Backend+Engineer;Crafting+Efficient+Solutions;Driven+by+Quality+and+Performance;Lifelong+Learner+in+Tech;Building+Robust+Backend+Systems" alt="Typing SVG">
+  </p>
+</section>
 <hr>
