@@ -10,7 +10,7 @@
         </td>
         <td>
           <p align="justify">
-            Hi, I'm Anees Akbar, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge-sharing happen through open-source.
+            Hi, I'm Anees Akbar, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge-sharing happen through open-source. I love my wife and my GF equally.
           </p>
         </td>
       </tr>
